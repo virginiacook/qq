@@ -1,0 +1,17 @@
+{
+  "uuid": "5e55cf5f-1131-47fe-ae6f-be792d44e65e",
+  "shortName": "wristquotes",
+  "longName": "wristquotes",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}

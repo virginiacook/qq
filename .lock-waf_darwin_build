@@ -1,0 +1,8 @@
+argv = ['/Users/virginia/pebble-dev/PebbleSDK-2.1.1/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': '7E58432F-3EA0-411A-BEE4-9D0243D73BAF', 'SSH_AUTH_SOCK': '/tmp/launch-xVAoyi/Listeners', 'PYTHONPATH': '/Users/virginia/pebble-dev/PebbleSDK-current/bin/../.env/lib/python2.7/site-packages', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'DYLD_LIBRARY_PATH': '/usr/local/xuggler/lib', 'TRACKER_HOME': '/usr/local/tracker', 'SHELL': '/bin/bash', 'LOGNAME': 'virginia', 'USER': 'virginia', 'HOME': '/Users/virginia', 'PATH': '/Users/virginia/pebble-dev/PebbleSDK-2.1.1/arm-cs-tools/bin:/Users/virginia/pebble-dev/PebbleSDK-current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin', 'TMPDIR': '/var/folders/2s/q05xzx_141d9f09z1b5cnjxc0000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-6NBUry/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', 'XUGGLE_HOME': '/usr/local/xuggler', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'PWD': '/Users/virginia/wristquotes', '_': '/Users/virginia/pebble-dev/PebbleSDK-2.1.1/Pebble/waf', '__CHECKFIX1436934': '1'}
+files = ['/Users/virginia/wristquotes/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/virginia/wristquotes/build'
+run_dir = '/Users/virginia/wristquotes'
+top_dir = '/Users/virginia/wristquotes'
